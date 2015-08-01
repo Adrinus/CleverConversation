@@ -1,5 +1,5 @@
 # CleverConversation
-Using the cleverbotapi, and eSpeak, two bots chat to each other aloud.
+Using the chatterbotapi, and eSpeak, two bots chat to each other aloud.
 ## You will need the following Dependencies:
 
 MPlayer
